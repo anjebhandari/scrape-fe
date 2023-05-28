@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Getting Started with Running project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Copy example.env to .env and change API endpoint if necessary
+
 
 ## Available Scripts
 
